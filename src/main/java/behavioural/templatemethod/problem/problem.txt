@@ -1,0 +1,17 @@
+
+Send Notification -
+
+Ensure that following are the series of Steps:
+
+1. Check For DND            // common logic
+2. Fetch Content            // common logic
+3. Create Notification      // different logic
+4. Send the Notification    // Different logic
+
+
+Types of Notification:
+
+1. SMS
+2. Email
+3. Push Notification
+4. Whatsapp
